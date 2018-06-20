@@ -1,0 +1,20 @@
+
+h1{
+  font-family: monospace;
+  font-size: 120px;
+  color: black;
+  letter-spacing: 1px;
+  text-align: center;
+  text-shadow: -1px 0 white, 0 2px white, 1px 0 white, 0 -2px white;
+}
+h2{
+  font-family: monospace;
+  font-size: 45px;
+  text-shadow: -1px 0 white, 0 2px white, 1px 0 white, 0 -2px white;
+  text-align: center;
+}
+#form {
+  font-family: Bradley Hand;
+  font-size: 26px;
+  position: absolute;bottom: 15px;
+}
